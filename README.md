@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Franklin.
 - 👀 I’m interested in physics, technology, RPG and cooking.
-- 🌱 I’m currently learning JS, Node.JS, React, React Native and Git.
+- 🌱 I’m currently learning Git and Native Android development with Kotlin.
 - 💞️ I’m looking to collaborate on begginers projects (I'm still learning).
 - 📫 How to reach me, look for franklihs in any social media.
 
